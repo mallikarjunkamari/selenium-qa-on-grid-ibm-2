@@ -1,0 +1,10 @@
+.metadata/
+.classpath
+.factorypath
+.project
+.settings/
+target/
+build/
+test-output/
+test-results/
+k8s/results/
